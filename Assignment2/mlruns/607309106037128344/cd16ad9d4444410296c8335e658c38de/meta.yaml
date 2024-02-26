@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Coursework/AML/Assignment/A2/mlruns/607309106037128344/cd16ad9d4444410296c8335e658c38de/artifacts
+end_time: 1708934825859
+entry_point_name: ''
+experiment_id: '607309106037128344'
+lifecycle_stage: active
+run_id: cd16ad9d4444410296c8335e658c38de
+run_name: Bernoulli_Naive_Bayes
+run_uuid: cd16ad9d4444410296c8335e658c38de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708934821794
+status: 3
+tags: []
+user_id: anjan

@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Coursework/AML/Assignment/A2/mlruns/607309106037128344/2d410b489f9e4e3985894f8f5fcb6023/artifacts
+end_time: 1708934482956
+entry_point_name: ''
+experiment_id: '607309106037128344'
+lifecycle_stage: active
+run_id: 2d410b489f9e4e3985894f8f5fcb6023
+run_name: Random_Forest
+run_uuid: 2d410b489f9e4e3985894f8f5fcb6023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708934466849
+status: 3
+tags: []
+user_id: anjan
