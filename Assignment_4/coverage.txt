@@ -1,0 +1,12 @@
+
+---------- coverage: platform win32, python 3.12.2-final-0 -----------
+Name           Stmts   Miss  Cover   Missing
+--------------------------------------------
+src\app.py        16      6    62%   24-34, 38
+src\score.py      18     11    39%   28-46
+test.py           33      7    79%   51-57, 60
+--------------------------------------------
+TOTAL             67     24    64%
+Coverage HTML written to dir htmlcov
+
+
